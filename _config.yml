@@ -6,16 +6,16 @@ plugins:
   - jekyll-sitemap
 
 # Site settings
-title: '<website title>'
-subtitle: '<website subtitle>'
-email: '<your email>'
-name: '<your name>'
-description: '<website description>'
+title: 'dxccm'
+subtitle: 'stay hungry,stay foolish'
+email: 'dxccm666@gmail.com'
+name: '灯下草虫鸣'
+description: 'Android WiFi'
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: '<website url>' # the base hostname & protocol for your site
+url: 'dxccm666.github.io' # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
